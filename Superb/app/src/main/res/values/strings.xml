@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Superb</string>
+    <string name="BtnClose">Close</string>
+    <string name="BtnStart">Start</string>
 </resources>
