@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#44000000"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@color/Light_Background"
+        android:elevation="30dp">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="0.5"
+            android:background="@color/Light_Background"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:weightSum="0.7"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_height="0dp"
+                    android:layout_width="wrap_content"
+                    android:elevation="10dp"
+                    android:background="@color/Light_Background"
+                    android:layout_weight="0.6"
+                    android:src="@drawable/ic_sms_body"
+                    />
+                <Button
+                    android:textAllCaps="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:elevation="6dp"
+                    android:gravity="center"
+                    android:text="@string/mensagem"
+                    android:layout_marginTop="5dp"
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:weightSum="0.7"
+                android:orientation="vertical"
+                android:gravity="center">
+                <ImageView
+                    android:layout_height="0dp"
+                    android:layout_width="wrap_content"
+                    android:elevation="10dp"
+                    android:background="@color/Light_Background"
+                    android:layout_weight="0.6"
+                    android:src="@drawable/ic_email_body"/>
+                <Button
+                    android:textAllCaps="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:elevation="6dp"
+                    android:gravity="center"
+                    android:text="@string/e_mail"
+                    android:layout_marginTop="5dp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
