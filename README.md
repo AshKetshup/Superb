@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
+*** make this better, please fork the Superb and create a pull request or simply open
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -27,7 +27,7 @@
 [![Stargazers][stars-shield]][https://github.com/AshKetshup/Superb/stargazers]
 [![Issues][issues-shield]][https://github.com/AshKetshup/Superb/issues]
 [![GNU General Public License v3.0][license-shield]][https://github.com/AshKetshup/Superb/blob/TheDarkestTimeline/LICENSE.md]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/diogo-simoes-8b5a0618a/]
+[![LinkedIn][linkedin-shield]][]
 
 
 
@@ -48,7 +48,7 @@
     <br />
     <a href="https://github.com/AshKetshup/Superb">View Demo</a>
     ·
-    <a href="https://github.com/AshKetshup/Superb/issues">Report Bug</a>
+    <a href="https://github.com/AshKetshup/Superb/issues">Superbrt Bug</a>
     ·
     <a href="https://github.com/AshKetshup/Superb/issues">Request Feature</a>
   </p>
@@ -138,16 +138,16 @@ Project Link: [https://github.com/AshKetshup/Superb](https://github.com/AshKetsh
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AshKetshup/repo.svg?style=flat-square
-[contributors-url]: https://github.com/AshKetshup/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AshKetshup/repo.svg?style=flat-square
-[forks-url]: https://github.com/AshKetshup/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/AshKetshup/repo.svg?style=flat-square
-[stars-url]: https://github.com/AshKetshup/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AshKetshup/repo.svg?style=flat-square
-[issues-url]: https://github.com/AshKetshup/repo/issues
-[license-shield]: https://img.shields.io/github/license/AshKetshup/repo.svg?style=flat-square
-[license-url]: https://github.com/AshKetshup/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/AshKetshup/Superb.svg?style=flat-square
+[contributors-url]: https://github.com/AshKetshup/Superb/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AshKetshup/Superb.svg?style=flat-square
+[forks-url]: https://github.com/AshKetshup/Superb/network/members
+[stars-shield]: https://img.shields.io/github/stars/AshKetshup/Superb.svg?style=flat-square
+[stars-url]: https://github.com/AshKetshup/Superb/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AshKetshup/Superb.svg?style=flat-square
+[issues-url]: https://github.com/AshKetshup/Superb/issues
+[license-shield]: https://img.shields.io/github/license/AshKetshup/Superb.svg?style=flat-square
+[license-url]: https://github.com/AshKetshup/Superb/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/AshKetshup
+[linkedin-url]: https://www.linkedin.com/in/diogo-simoes-8b5a0618a/
 [product-screenshot]: images/screenshot.png
