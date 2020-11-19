@@ -1,0 +1,17 @@
+{
+	"salutation" : [
+		"Olá",
+		"Boa Tarde",
+		"Boa Noite",
+		"Bom dia"
+	],
+	"icebreak" : [
+		"Espero que este email o encontre bem."
+	],
+	"vows" : [
+		"Votos de boa continuação"
+	],
+	"dismissal" : [
+		"Cumprimentos"
+	]
+}
