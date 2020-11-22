@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -18,6 +19,7 @@ public class StartActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start);
+
         ImageView editIcon = (ImageView) findViewById(R.id.editIcon);
         ImageView wrenchIcon = (ImageView) findViewById(R.id.wrenchIcon);
         FloatingActionButton createButton = (FloatingActionButton) findViewById(R.id.createButton);
